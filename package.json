@@ -1,0 +1,11 @@
+{
+  "name": "tastylog",
+  "version": "1.0.0",
+  "description": "Udemy Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hirokazu Tago",
+  "license": "ISC"
+}
